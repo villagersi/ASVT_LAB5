@@ -7,9 +7,6 @@ internal class Program
 
     private static async Task Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
-
-
         var serverAdress = new Uri("udp://127.0.0.1:7777");
         var client = new NetUdpClient(serverAdress);
         Console.WriteLine($"Connect to server at {serverAdress}");
@@ -37,6 +34,14 @@ internal class Program
                 Console.WriteLine($"Message sent: {message}");
             }
 
+            if (key.Key == ConsoleKey.D2)
+            {
+                Console.Write("Enter your wish!!!: ");
+                var message = Console.ReadLine() ?? string.Empty;
+                await messageApi.SendMessage(message);
+                Console.WriteLine($"Your message sent to Santa Claus: {message}");
+            }
+
             if (key.Key == ConsoleKey.Escape)
             {
                 break;
@@ -50,6 +55,7 @@ internal class Program
         lock (_locker)
         {
             Console.WriteLine("1 - Send message");
+            Console.WriteLine("2 - Send wish to Santa");
             Console.WriteLine("-------");
         }
     }

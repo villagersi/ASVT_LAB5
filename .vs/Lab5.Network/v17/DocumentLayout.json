@@ -3,40 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD4FC79E-FDB6-497A-A687-AA8AD19764B5}|Lab5.Network.UdpServer\\Lab5.Network.UdpServer.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.udpserver\\messageudpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD4FC79E-FDB6-497A-A687-AA8AD19764B5}|Lab5.Network.UdpServer\\Lab5.Network.UdpServer.csproj|solutionrelative:lab5.network.udpserver\\messageudpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{307EC891-897A-4308-B262-224B21BE0643}|Lab5.Network.UdpClient\\Lab5.Network.UdpClient.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.udpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{307EC891-897A-4308-B262-224B21BE0643}|Lab5.Network.UdpClient\\Lab5.Network.UdpClient.csproj|solutionrelative:lab5.network.udpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{307EC891-897A-4308-B262-224B21BE0643}|Lab5.Network.UdpClient\\Lab5.Network.UdpClient.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.udpclient\\messageapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{307EC891-897A-4308-B262-224B21BE0643}|Lab5.Network.UdpClient\\Lab5.Network.UdpClient.csproj|solutionrelative:lab5.network.udpclient\\messageapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{307EC891-897A-4308-B262-224B21BE0643}|Lab5.Network.UdpClient\\Lab5.Network.UdpClient.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.udpclient\\netudpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{307EC891-897A-4308-B262-224B21BE0643}|Lab5.Network.UdpClient\\Lab5.Network.UdpClient.csproj|solutionrelative:lab5.network.udpclient\\netudpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.common\\imessageapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|solutionrelative:lab5.network.common\\imessageapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD4FC79E-FDB6-497A-A687-AA8AD19764B5}|Lab5.Network.UdpServer\\Lab5.Network.UdpServer.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.udpserver\\udpserverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4FC79E-FDB6-497A-A687-AA8AD19764B5}|Lab5.Network.UdpServer\\Lab5.Network.UdpServer.csproj|solutionrelative:lab5.network.udpserver\\udpserverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.common\\carapi\\icarapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|solutionrelative:lab5.network.common\\carapi\\icarapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD4FC79E-FDB6-497A-A687-AA8AD19764B5}|Lab5.Network.UdpServer\\Lab5.Network.UdpServer.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.udpserver\\messageudpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4FC79E-FDB6-497A-A687-AA8AD19764B5}|Lab5.Network.UdpServer\\Lab5.Network.UdpServer.csproj|solutionrelative:lab5.network.udpserver\\messageudpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD4FC79E-FDB6-497A-A687-AA8AD19764B5}|Lab5.Network.UdpServer\\Lab5.Network.UdpServer.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.udpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD4FC79E-FDB6-497A-A687-AA8AD19764B5}|Lab5.Network.UdpServer\\Lab5.Network.UdpServer.csproj|solutionrelative:lab5.network.udpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD4FC79E-FDB6-497A-A687-AA8AD19764B5}|Lab5.Network.UdpServer\\Lab5.Network.UdpServer.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.udpserver\\udpserverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD4FC79E-FDB6-497A-A687-AA8AD19764B5}|Lab5.Network.UdpServer\\Lab5.Network.UdpServer.csproj|solutionrelative:lab5.network.udpserver\\udpserverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{307EC891-897A-4308-B262-224B21BE0643}|Lab5.Network.UdpClient\\Lab5.Network.UdpClient.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.udpclient\\messageapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{307EC891-897A-4308-B262-224B21BE0643}|Lab5.Network.UdpClient\\Lab5.Network.UdpClient.csproj|solutionrelative:lab5.network.udpclient\\messageapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FBDB6-E533-4725-A593-7D1C7EE3C74B}|Lab5.Network.TcpServer\\Lab5.Network.TcpServer.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.tcpserver\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58FBDB6-E533-4725-A593-7D1C7EE3C74B}|Lab5.Network.TcpServer\\Lab5.Network.TcpServer.csproj|solutionrelative:lab5.network.tcpserver\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FBDB6-E533-4725-A593-7D1C7EE3C74B}|Lab5.Network.TcpServer\\Lab5.Network.TcpServer.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.tcpserver\\tcpserverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58FBDB6-E533-4725-A593-7D1C7EE3C74B}|Lab5.Network.TcpServer\\Lab5.Network.TcpServer.csproj|solutionrelative:lab5.network.tcpserver\\tcpserverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FBDB6-E533-4725-A593-7D1C7EE3C74B}|Lab5.Network.TcpServer\\Lab5.Network.TcpServer.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.tcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58FBDB6-E533-4725-A593-7D1C7EE3C74B}|Lab5.Network.TcpServer\\Lab5.Network.TcpServer.csproj|solutionrelative:lab5.network.tcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F58FBDB6-E533-4725-A593-7D1C7EE3C74B}|Lab5.Network.TcpServer\\Lab5.Network.TcpServer.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.tcpserver\\apitcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F58FBDB6-E533-4725-A593-7D1C7EE3C74B}|Lab5.Network.TcpServer\\Lab5.Network.TcpServer.csproj|solutionrelative:lab5.network.tcpserver\\apitcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17066267-6103-4166-B8E8-AD87B027C8EA}|Lab5.Network.TcpClient\\Lab5.Network.TcpClient.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.tcpclient\\userapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17066267-6103-4166-B8E8-AD87B027C8EA}|Lab5.Network.TcpClient\\Lab5.Network.TcpClient.csproj|solutionrelative:lab5.network.tcpclient\\userapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17066267-6103-4166-B8E8-AD87B027C8EA}|Lab5.Network.TcpClient\\Lab5.Network.TcpClient.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17066267-6103-4166-B8E8-AD87B027C8EA}|Lab5.Network.TcpClient\\Lab5.Network.TcpClient.csproj|solutionrelative:lab5.network.tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17066267-6103-4166-B8E8-AD87B027C8EA}|Lab5.Network.TcpClient\\Lab5.Network.TcpClient.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.tcpclient\\nettcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17066267-6103-4166-B8E8-AD87B027C8EA}|Lab5.Network.TcpClient\\Lab5.Network.TcpClient.csproj|solutionrelative:lab5.network.tcpclient\\nettcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.common\\imessageapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|solutionrelative:lab5.network.common\\imessageapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.common\\commandcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|solutionrelative:lab5.network.common\\commandcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.common\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|solutionrelative:lab5.network.common\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.common\\userapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|solutionrelative:lab5.network.common\\userapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.common\\userapi\\iuserapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|solutionrelative:lab5.network.common\\userapi\\iuserapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.common\\carapi\\icarapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|solutionrelative:lab5.network.common\\carapi\\icarapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|c:\\users\\sopar\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\lab5.network\\lab5.network.common\\carapi\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450D0ABD-E5A5-461C-A966-1ED810D1B272}|Lab5.Network.Common\\Lab5.Network.Common.csproj|solutionrelative:lab5.network.common\\carapi\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,20 +102,164 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICarApi.cs",
-              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\CarApi\\ICarApi.cs",
-              "RelativeDocumentMoniker": "Lab5.Network.Common\\CarApi\\ICarApi.cs",
-              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\CarApi\\ICarApi.cs",
-              "RelativeToolTip": "Lab5.Network.Common\\CarApi\\ICarApi.cs",
+              "DocumentIndex": 2,
+              "Title": "UdpServerBase.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpServer\\UdpServerBase.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.UdpServer\\UdpServerBase.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpServer\\UdpServerBase.cs",
+              "RelativeToolTip": "Lab5.Network.UdpServer\\UdpServerBase.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:25:11.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageUdpServer.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpServer\\MessageUdpServer.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.UdpServer\\MessageUdpServer.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpServer\\MessageUdpServer.cs",
+              "RelativeToolTip": "Lab5.Network.UdpServer\\MessageUdpServer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:55:38.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:25:09.011Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpServer\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.UdpServer\\Program.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpServer\\Program.cs",
+              "RelativeToolTip": "Lab5.Network.UdpServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:25:06.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.UdpClient\\Program.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\Program.cs",
+              "RelativeToolTip": "Lab5.Network.UdpClient\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:24:55.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetUdpClient.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\NetUdpClient.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.UdpClient\\NetUdpClient.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\NetUdpClient.cs",
+              "RelativeToolTip": "Lab5.Network.UdpClient\\NetUdpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:24:51.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\MessageApiClient.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.UdpClient\\MessageApiClient.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\MessageApiClient.cs",
+              "RelativeToolTip": "Lab5.Network.UdpClient\\MessageApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:24:49.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpServer\\UserApi.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.TcpServer\\UserApi.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpServer\\UserApi.cs",
+              "RelativeToolTip": "Lab5.Network.TcpServer\\UserApi.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:24:10.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TcpServerBase.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpServer\\TcpServerBase.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.TcpServer\\TcpServerBase.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpServer\\TcpServerBase.cs",
+              "RelativeToolTip": "Lab5.Network.TcpServer\\TcpServerBase.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:24:01.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpServer\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.TcpServer\\Program.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpServer\\Program.cs",
+              "RelativeToolTip": "Lab5.Network.TcpServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:23:51.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiTcpServer.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpServer\\ApiTcpServer.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.TcpServer\\ApiTcpServer.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpServer\\ApiTcpServer.cs",
+              "RelativeToolTip": "Lab5.Network.TcpServer\\ApiTcpServer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:23:37.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpClient\\UserApiClient.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.TcpClient\\UserApiClient.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpClient\\UserApiClient.cs",
+              "RelativeToolTip": "Lab5.Network.TcpClient\\UserApiClient.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:23:28.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpClient\\Program.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.TcpClient\\Program.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpClient\\Program.cs",
+              "RelativeToolTip": "Lab5.Network.TcpClient\\Program.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAIwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:23:17.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NetTcpClient.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpClient\\NetTcpClient.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.TcpClient\\NetTcpClient.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.TcpClient\\NetTcpClient.cs",
+              "RelativeToolTip": "Lab5.Network.TcpClient\\NetTcpClient.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:23:01.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IMessageApi.cs",
               "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\IMessageApi.cs",
               "RelativeDocumentMoniker": "Lab5.Network.Common\\IMessageApi.cs",
@@ -79,38 +267,11 @@
               "RelativeToolTip": "Lab5.Network.Common\\IMessageApi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:54:56.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:22:27.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UdpServerBase.cs",
-              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpServer\\UdpServerBase.cs",
-              "RelativeDocumentMoniker": "Lab5.Network.UdpServer\\UdpServerBase.cs",
-              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpServer\\UdpServerBase.cs",
-              "RelativeToolTip": "Lab5.Network.UdpServer\\UdpServerBase.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T10:52:18.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MessageApiClient.cs",
-              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\MessageApiClient.cs",
-              "RelativeDocumentMoniker": "Lab5.Network.UdpClient\\MessageApiClient.cs",
-              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\MessageApiClient.cs",
-              "RelativeToolTip": "Lab5.Network.UdpClient\\MessageApiClient.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T09:24:21.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "CommandCode.cs",
               "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\CommandCode.cs",
               "RelativeDocumentMoniker": "Lab5.Network.Common\\CommandCode.cs",
@@ -118,59 +279,67 @@
               "RelativeToolTip": "Lab5.Network.Common\\CommandCode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T09:04:40.936Z"
+              "WhenOpened": "2024-12-11T11:22:05.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpServer\\Program.cs",
-              "RelativeDocumentMoniker": "Lab5.Network.UdpServer\\Program.cs",
-              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpServer\\Program.cs",
-              "RelativeToolTip": "Lab5.Network.UdpServer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\Command.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.Common\\Command.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\Command.cs",
+              "RelativeToolTip": "Lab5.Network.Common\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:27:53.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:22:04.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MessageUdpServer.cs",
-              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpServer\\MessageUdpServer.cs",
-              "RelativeDocumentMoniker": "Lab5.Network.UdpServer\\MessageUdpServer.cs",
-              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpServer\\MessageUdpServer.cs",
-              "RelativeToolTip": "Lab5.Network.UdpServer\\MessageUdpServer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\UserApi\\User.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.Common\\UserApi\\User.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\UserApi\\User.cs",
+              "RelativeToolTip": "Lab5.Network.Common\\UserApi\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:27:34.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:21:57.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\Program.cs",
-              "RelativeDocumentMoniker": "Lab5.Network.UdpClient\\Program.cs",
-              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\Program.cs",
-              "RelativeToolTip": "Lab5.Network.UdpClient\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "IUserApi.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\UserApi\\IUserApi.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.Common\\UserApi\\IUserApi.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\UserApi\\IUserApi.cs",
+              "RelativeToolTip": "Lab5.Network.Common\\UserApi\\IUserApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:27:25.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:21:27.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NetUdpClient.cs",
-              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\NetUdpClient.cs",
-              "RelativeDocumentMoniker": "Lab5.Network.UdpClient\\NetUdpClient.cs",
-              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\NetUdpClient.cs",
-              "RelativeToolTip": "Lab5.Network.UdpClient\\NetUdpClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "ICarApi.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\CarApi\\ICarApi.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.Common\\CarApi\\ICarApi.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\CarApi\\ICarApi.cs",
+              "RelativeToolTip": "Lab5.Network.Common\\CarApi\\ICarApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:27:17.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:21:09.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\CarApi\\Car.cs",
+              "RelativeDocumentMoniker": "Lab5.Network.Common\\CarApi\\Car.cs",
+              "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.Common\\CarApi\\Car.cs",
+              "RelativeToolTip": "Lab5.Network.Common\\CarApi\\Car.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:20:54.872Z"
             }
           ]
         }
