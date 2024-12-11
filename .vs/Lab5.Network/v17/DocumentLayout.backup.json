@@ -110,8 +110,7 @@
               "RelativeToolTip": "Lab5.Network.UdpServer\\UdpServerBase.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:25:11.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:25:11.494Z"
             },
             {
               "$type": "Document",
@@ -123,8 +122,7 @@
               "RelativeToolTip": "Lab5.Network.UdpServer\\MessageUdpServer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:25:09.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:25:09.011Z"
             },
             {
               "$type": "Document",
@@ -136,8 +134,7 @@
               "RelativeToolTip": "Lab5.Network.UdpServer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:25:06.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:25:06.99Z"
             },
             {
               "$type": "Document",
@@ -147,7 +144,7 @@
               "RelativeDocumentMoniker": "Lab5.Network.UdpClient\\Program.cs",
               "ToolTip": "C:\\Users\\sopar\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Lab5.Network\\Lab5.Network.UdpClient\\Program.cs",
               "RelativeToolTip": "Lab5.Network.UdpClient\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T11:24:55.011Z",
               "EditorCaption": ""
@@ -162,8 +159,7 @@
               "RelativeToolTip": "Lab5.Network.UdpClient\\NetUdpClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:24:51.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:24:51.964Z"
             },
             {
               "$type": "Document",
@@ -175,8 +171,7 @@
               "RelativeToolTip": "Lab5.Network.UdpClient\\MessageApiClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:24:49.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:24:49.248Z"
             },
             {
               "$type": "Document",
@@ -188,8 +183,7 @@
               "RelativeToolTip": "Lab5.Network.TcpServer\\UserApi.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAiwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:24:10.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:24:10.28Z"
             },
             {
               "$type": "Document",
@@ -201,8 +195,7 @@
               "RelativeToolTip": "Lab5.Network.TcpServer\\TcpServerBase.cs",
               "ViewState": "AgIAAGEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:24:01.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:24:01.289Z"
             },
             {
               "$type": "Document",
@@ -214,8 +207,7 @@
               "RelativeToolTip": "Lab5.Network.TcpServer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:23:51.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:23:51.397Z"
             },
             {
               "$type": "Document",
@@ -227,8 +219,7 @@
               "RelativeToolTip": "Lab5.Network.TcpServer\\ApiTcpServer.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAuwFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:23:37.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:23:37.73Z"
             },
             {
               "$type": "Document",
@@ -240,8 +231,7 @@
               "RelativeToolTip": "Lab5.Network.TcpClient\\UserApiClient.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAqwG4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:23:28.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:23:28.272Z"
             },
             {
               "$type": "Document",
@@ -253,8 +243,7 @@
               "RelativeToolTip": "Lab5.Network.TcpClient\\Program.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAIwI4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:23:17.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:23:17.597Z"
             },
             {
               "$type": "Document",
@@ -266,8 +255,7 @@
               "RelativeToolTip": "Lab5.Network.TcpClient\\NetTcpClient.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:23:01.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:23:01.057Z"
             },
             {
               "$type": "Document",
@@ -279,8 +267,7 @@
               "RelativeToolTip": "Lab5.Network.Common\\IMessageApi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:22:27.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:22:27.22Z"
             },
             {
               "$type": "Document",
@@ -292,8 +279,7 @@
               "RelativeToolTip": "Lab5.Network.Common\\CommandCode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:22:05.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:22:05.41Z"
             },
             {
               "$type": "Document",
@@ -305,8 +291,7 @@
               "RelativeToolTip": "Lab5.Network.Common\\Command.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:22:04.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:22:04.093Z"
             },
             {
               "$type": "Document",
@@ -318,8 +303,7 @@
               "RelativeToolTip": "Lab5.Network.Common\\UserApi\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:21:57.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:21:57.511Z"
             },
             {
               "$type": "Document",
@@ -331,8 +315,7 @@
               "RelativeToolTip": "Lab5.Network.Common\\UserApi\\IUserApi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:21:27.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:21:27.003Z"
             },
             {
               "$type": "Document",
@@ -344,8 +327,7 @@
               "RelativeToolTip": "Lab5.Network.Common\\CarApi\\ICarApi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:21:09.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:21:09.885Z"
             },
             {
               "$type": "Document",
@@ -357,8 +339,7 @@
               "RelativeToolTip": "Lab5.Network.Common\\CarApi\\Car.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T11:20:54.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T11:20:54.872Z"
             }
           ]
         }
